@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-20T15:34:32.208592971-06:00"
+from:
+  id-type: crev
+  id: tUr1spkRD-JlTwY1x-Op5CoF0gpd3ZuuvsmYG5v25_s
+  url: "https://github.com/blargg/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: num-iter
+  version: 0.1.39
+  revision: b4ac220345d50db93e10a9580c9d4a0801dd2046
+  digest: CsxqiydKugM6oD5gTqQ8XNKQMWOWj3cXzk--aGvbgDk
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Basic review|-
+----- SIGN CREV PROOF -----
+xP6XrE7vJZ5a5z-PE-kC1wBvh5eALWMaIi5-6oj3URpW9rECXsfcL04hnnUGmfIRpGDFfzoG6yAiNxlyNzCjBw
+----- END CREV PROOF -----
+
